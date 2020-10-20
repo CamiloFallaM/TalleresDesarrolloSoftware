@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.row  {
+    text-align: center;
+}
+
+#fila1 {
+    background-color: lightblue;
+}
+#fila2 {
+    background-color: lightgreen;
+}
+#col1 {
+    background-color: peru;
+}
+#col2 {
+    background-color: sandybrown;
+}
